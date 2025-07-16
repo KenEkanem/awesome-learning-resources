@@ -548,7 +548,6 @@
 - [ Python OOP](https://www.programiz.com/python-programming/object-oriented-programming)
 - [Full-Stack Python](https://www.fullstackpython.com/table-of-contents.html)
 - [Python Tutorials](https://realpython.com/)
-- [Algorithms and Data Structures with Python](https://jooseph.com/collections/802?utm_source=reddit.com&utm_medium=referral&utm_campaign=r%2Flearnprogramming)
 - [Python Tutorial - Tutlane](https://www.tutlane.com/tutorial/python)
 - [DevProjects - Free Real-World Python Projects](https://www.codementor.io/projects/python)
 - [ItsMyCode - Learn Python Programming](https://itsmycode.com/category/python/)
